@@ -2,6 +2,7 @@
   "name": "investment-calc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Oshermaster.github.io/retxxx",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
